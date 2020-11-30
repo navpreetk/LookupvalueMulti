@@ -1,0 +1,24 @@
+{
+  "id": "lookupvaluetest",
+  "name": "lookupvaluetest",
+  "srcdoc": "./build/index.html",
+  "fieldTypes": [
+    "Object"
+  ],
+  "parameters":{
+    "instance":[
+      {
+        "id": "lookupContentType",
+        "type": "Symbol",
+        "name": "Lookup Value Content Type",
+        "description": "For which content type the lookup value is for"
+      },
+      {
+        "id": "lookupContentField",
+        "type": "Symbol",
+        "name": "Lookup Value Content Field",
+        "description": "For which content Field the lookup value is for"
+      }
+    ]
+  }
+}

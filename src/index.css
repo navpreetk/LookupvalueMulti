@@ -1,0 +1,15 @@
+html,
+body,
+div {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+.jhtext1{
+  height:200px;
+  color: rgb(72, 72, 80);
+  font-family: sans-serif;
+}
