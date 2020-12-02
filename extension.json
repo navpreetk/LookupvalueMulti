@@ -1,6 +1,6 @@
 {
-  "id": "lookupvaluetest",
-  "name": "lookupvaluetest",
+  "id": "lookupvaluemulti",
+  "name": "lookupvaluemulti",
   "srcdoc": "./build/index.html",
   "fieldTypes": [
     "Object"
